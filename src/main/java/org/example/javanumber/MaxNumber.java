@@ -16,15 +16,14 @@ public class MaxNumber {
 //            System.out.println("Max number = " +a);
 //        else
 //            System.out.println("Max number = " +b);
-//
-        if(a>b && a>c)
-            System.out.println("Max number = " +a);
-        else if (b>a && b > c) {
-            System.out.println("Max number = " +b);
-        }
-            else
-            System.out.println("Max number = " +c);
 
-        }
+        if (a > b && a > c)
+            System.out.println("Max number = " + a);
+        else if (b > a && b > c) {
+            System.out.println("Max number = " + b);
+        } else
+            System.out.println("Max number = " + c);
+
     }
+}
 
