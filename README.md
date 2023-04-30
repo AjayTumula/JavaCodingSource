@@ -5,11 +5,7 @@ problems to print the '*' to get different outputs.
  
 1. Java numbers package: The javanumbers package consists of coding problems on numbers consists of Armstrong number, primenumber, factorial, fibonacci series,finding max number, palindrome, sum of two numbers, product of two numbers, sum of odd and even numbers, sum of even and product of odd numbers.
 
-2. Patterns package: The patterns package consists of eight different patterns problems in which the logic to print the patterns is written for all the scenarios.
-                   *                       * * * * *                *                 * * * * * 
-                   * *                     * * * *                 * *                 * * * *
-                   * * *                   * * *                  * * *                 * * *
-                   * * * *                 * *                   * * * *                 * *
-                   * * * * *               *                    * * * * *                 *
-                 
-                    
+2. Patterns package: The patterns package consists of eight different patterns problems in which the logic to print the patterns is written for all the scenarios. The 
+patterns problems helps to build the logical thiking. The below diagram shows the types of patterns explained in the code.
+
+  <img width="390" alt="patterns image" src="https://user-images.githubusercontent.com/101564077/235372232-a596373a-be02-43da-9df1-503ae3451a66.png">
