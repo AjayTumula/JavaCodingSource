@@ -16,7 +16,7 @@ public class Pattern4 {
             }
             for (j =1; j<=i; j++)
             {
-                System.out.print("*");
+                System.out.print("* ");
                 /*
                 Here, printing "i" gives you the output of
                         1
@@ -38,6 +38,14 @@ public class Pattern4 {
                        **
                       ***
                      ****
+
+                      *                    //  this is for input =5
+                     * *
+                    * * *
+                   * * * *
+                  * * * * *
+
+
                  */
             }
             System.out.println();

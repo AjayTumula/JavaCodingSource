@@ -12,7 +12,7 @@ public class Pattern2 {
         // Logic to print the "*"
         for (; n>=1; n--) {
             for (j=1; j<=n; j++) {
-                System.out.print("*");
+                System.out.print("* ");
             }
             System.out.println();
         }
