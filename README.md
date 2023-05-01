@@ -8,3 +8,6 @@ This repository consists of basic java programs which helps to gain knowledge on
 
     
    <img width="390" alt="patterns image" src="https://user-images.githubusercontent.com/101564077/235372232-a596373a-be02-43da-9df1-503ae3451a66.png">
+   
+   
+3. String package: The string package consists of nine different string programs, which includes comparing two strings, counting words in a string, checks two strings are equal or not, checks whether the string is palindrome or not, a class consists methods of strings, checking vowels of a string, and stringbuffer class.
