@@ -11,3 +11,5 @@ This repository consists of basic java programs which helps to gain knowledge on
    
    
 3. String package: The string package consists of nine different string programs, which includes comparing two strings, counting words in a string, checks two strings are equal or not, checks whether the string is palindrome or not, a class consists methods of strings, checking vowels of a string, and stringbuffer class.
+
+4. Array package: The array package in this repository consists of all the basic array programs, it also has searching techniques such as linear search, and binary search, and the sorting technigues such as bubble sort, insertion sort, and selection sort. This package gives knowledge of arrays and covers the basics of the data structures.
